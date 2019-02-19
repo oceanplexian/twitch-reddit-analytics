@@ -1,6 +1,6 @@
 # Reddit Analytics Project
 
-The reddit-analytics script is an example of a tool that crawls the reddit.com/r/twitch subreddit, looks for keywords (Such as load, buffer, lag, offline, and freezing) counts the number of votes and comments, and if they exceed a certain threshold (more than 5 upvotes alone, or a combination of more than 10 upvotes & comments) groups them into a list which could be used to trigger an alert, or potentially send a slack notification. 
+The reddit-analytics script is an example of a tool that crawls the [reddit.com/r/twitch](https://www.reddit.com/r/twitch) subreddit, looks for keywords (Such as load, buffer, lag, offline, and freezing) counts the number of votes and comments, and if they exceed a certain threshold (more than 5 upvotes alone, or a combination of more than 10 upvotes & comments) groups them into a list which could be used to trigger an alert, or potentially send a slack notification. 
 
 Example Usage:
 ```
